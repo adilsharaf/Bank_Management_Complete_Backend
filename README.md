@@ -1,2 +1,2 @@
 # Bank_Management_Complete_Backend
-Complete frontend of bank management
+Complete backend of bank management
